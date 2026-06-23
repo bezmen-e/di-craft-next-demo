@@ -1,6 +1,6 @@
 {
 	"name": "di-craft-next-app-router-example",
-	"private": true,
+	"private": false,
 	"type": "module",
 	"scripts": {
 		"build": "next build",
