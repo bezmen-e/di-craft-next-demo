@@ -1,0 +1,21 @@
+{
+	"name": "di-craft-next-app-router-example",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev",
+		"typecheck": "tsc --noEmit"
+	},
+	"dependencies": {
+		"@types/node": "latest",
+		"@types/react": "latest",
+		"@types/react-dom": "latest",
+		"di-craft": "0.0.20",
+		"next": "latest",
+		"react": "latest",
+		"react-dom": "latest",
+		"typescript": "latest"
+	},
+	"devDependencies": {}
+}
